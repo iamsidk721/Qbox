@@ -1,0 +1,3 @@
+time taken to upload using vsftpd_v1 = 13.89 seconds
+time taken to upload using vsftpd_v2 = indefinite (cannot measure terminal was stuck)
+this is happening during the put command(upload)

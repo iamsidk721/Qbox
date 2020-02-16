@@ -1,0 +1,10 @@
+The version vsftpd_v5 was having high memory consumption.
+Steps taken to find memory consumption:
+started server in ftp client directory then measured memory usage using htop by filtering it for vsftpd_v5
+
+Results:
+Approx values in kb
+Version      Resident     Virtual       Shared    
+-----------------------------------------------
+vsftpd_v5    31578Kb      50000Kb       2050Kb 
+vsftpd_V1    2128Kb       21960Kb       1928Kb    
