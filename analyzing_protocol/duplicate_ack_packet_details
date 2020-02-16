@@ -1,0 +1,3 @@
+10
+10.160.0.11
+Duplicate ACKs are sent when the receiver sees a gap in the packets it receives.

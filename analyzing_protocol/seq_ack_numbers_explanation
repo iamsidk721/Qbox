@@ -1,0 +1,2 @@
+for a given packet the client responds to the server's sequence number of zero with an acknowledgement number of 1
+At this point, the sequence number for both hosts is 1.Therefore initial increment of 1 on both hosts sequence numbers occurs during the establishment of all TCP sessions.
