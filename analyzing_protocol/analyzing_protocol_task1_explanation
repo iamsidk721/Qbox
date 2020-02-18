@@ -1,1 +1,1 @@
-ifconfig gives inet ip address and ping gives external ip address
+We ping external IP address of the Qbox host while ifconfig gives internal IP address , this happens due to network address translation
